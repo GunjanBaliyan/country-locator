@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.CountryLocatorTest" time="6.778" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Desktop\AdvanceJava\Backend\JDBC\country_locator_project\target\test-classes;D:\Desktop\AdvanceJava\Backend\JDBC\country_locator_project\target\classes;C:\Users\gunja\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\gunja\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\gunja\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\gunja\AppData\Local\Temp\surefire7229993213213840780\surefirebooter-20240626202113465_3.jar C:\Users\gunja\AppData\Local\Temp\surefire7229993213213840780 2024-06-26T20-21-13_199-jvmRun1 surefire-20240626202113465_1tmp surefire_0-20240626202113465_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Desktop\AdvanceJava\Backend\JDBC\country_locator_project\target\test-classes;D:\Desktop\AdvanceJava\Backend\JDBC\country_locator_project\target\classes;C:\Users\gunja\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\gunja\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\gunja\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\gunja"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Desktop\AdvanceJava\Backend\JDBC\country_locator_project"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\gunja\AppData\Local\Temp\surefire7229993213213840780\surefirebooter-20240626202113465_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
+    <property name="user.name" value="gunja"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\gunja\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\gunja\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="user.dir" value="D:\Desktop\AdvanceJava\Backend\JDBC\country_locator_project"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\gunja\anaconda3\condabin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;D:\Downloads\Git\cmd;C:\Users\gunja\Downloads\apache-maven-3.9.8-bin\apache-maven-3.9.8\bin;C:\Users\gunja\anaconda3;C:\Users\gunja\anaconda3\Library\mingw-w64\bin;C:\Users\gunja\anaconda3\Library\usr\bin;C:\Users\gunja\anaconda3\Library\bin;C:\Users\gunja\anaconda3\Scripts;C:\Users\gunja\AppData\Local\Microsoft\WindowsApps;C:\Users\gunja\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;D:\Downloads\PyCharm Community Edition 2022.3.2\bin;;C:\Users\gunja\AppData\Local\GitHubDesktop\bin;C:\Program Files\CMake\bin;C:\Users\gunja\.dotnet\tools;C:\Users\gunja\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Program Files\MongoDB\Server\4.4\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.10+11-LTS-240"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testValidCoordinates" classname="com.example.CountryLocatorTest" time="1.894"/>
+  <testcase name="testInvalidCoordinates" classname="com.example.CountryLocatorTest" time="2.056"/>
+  <testcase name="testEdgeCaseCoordinates" classname="com.example.CountryLocatorTest" time="2.752"/>
+</testsuite>
