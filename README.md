@@ -44,7 +44,7 @@ CountryLocatorProject/
 ### Build and Run
 
 1. **Clone the repository**:
-   git clone https://github.com/devaltrackolap/Gunjan/CountryLocatorProject.git
+   git clone https://github.com/GunjanBaliyan/country-locator.git
    cd CountryLocatorProject
 
 2. **Build the project**:
